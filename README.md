@@ -25,8 +25,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/)
-- Live Site URL: [Add live site URL here](https:)
+- Solution URL: [Add solution URL here](https://robsongeek.github.io/profile-card/)
+- Live Site URL: [Add live site URL here](https://github.com/robsongeek)
 
 ### Built with
 
@@ -36,5 +36,5 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Website - [Robson Ferreira](https://github.com/)
+- Website - [Robson Ferreira](https://github.com/robsongeek)
 - Frontend Mentor - [](https://www.frontendmentor.io/profile/)
